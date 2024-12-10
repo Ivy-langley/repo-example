@@ -4,7 +4,7 @@ function setup() {
    }
    
    function draw() {
-     background(0,30);
+     background(0,10);
    
      // Set the noise level and scale.
      let noiseLevel = 800;
